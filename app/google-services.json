@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506817179761",
+    "firebase_url": "https://infonet-47a31.firebaseio.com",
+    "project_id": "infonet-47a31",
+    "storage_bucket": "infonet-47a31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506817179761:android:db50d7175aa220af",
+        "android_client_info": {
+          "package_name": "com.example.infonet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506817179761-j1ffl87khkl7so89gi5fb9rtjnfh63ra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.infonet",
+            "certificate_hash": "6bfa48d308ee14a2067b61a11b352faff96a4b3e"
+          }
+        },
+        {
+          "client_id": "506817179761-tq1knkbiedsr1ol3bemvu6f1algro21l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV6EUzRKB6laCGPJPrnhvFfCWAQN_WqUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506817179761-tq1knkbiedsr1ol3bemvu6f1algro21l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
